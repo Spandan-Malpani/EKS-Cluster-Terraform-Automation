@@ -50,7 +50,7 @@ The Terraform **backend** configuration is set to store the Terraform state file
 - The backend configuration is set up to manage the Terraform state across different executions, ensuring consistent and accurate deployments.
 - Users can configure the backend **S3 bucket** and **region** as part of their deployment process.
 
-![Untitled Diagram](https://github.com/user-attachments/assets/2ab05760-cce3-4b60-93de-64d7f4cc03c4)
+![Architecture](https://github.com/user-attachments/assets/2ab05760-cce3-4b60-93de-64d7f4cc03c4)
 
 
 
